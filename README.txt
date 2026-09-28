@@ -8,3 +8,4 @@ CEDAR LEDGER — QUICK START | HARBORNESTDIGITAL
 6. Extracted desktop files work offline. Phone home-screen installation requires separate HTTPS hosting of the customer files. The public sample demo, if provided, is not a private buyer account.
 
 This app does not connect to banks, send invoices, transfer payroll, calculate tax filings or replace a qualified accountant. For help contact HarborNestDigital via your Etsy order.
+
